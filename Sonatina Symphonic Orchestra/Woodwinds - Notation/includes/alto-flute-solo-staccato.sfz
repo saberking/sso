@@ -6,7 +6,7 @@
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-g3.wav
+sample=../Samples/Alto flute/alto_flute-g3.wav
 lokey=g3
 hikey=g#3
 pitch_keycenter=g3
@@ -48,7 +48,7 @@ cutoff=1000
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-a#3.wav
+sample=../Samples/Alto flute/alto_flute-a#3.wav
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -91,7 +91,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-c#4.wav
+sample=../Samples/Alto flute/alto_flute-c#4.wav
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -134,7 +134,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-e4.wav
+sample=../Samples/Alto flute/alto_flute-e4.wav
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -177,7 +177,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-g4.wav
+sample=../Samples/Alto flute/alto_flute-g4.wav
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -220,7 +220,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-a#4.wav
+sample=../Samples/Alto flute/alto_flute-a#4.wav
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -264,7 +264,7 @@ cutoff=1000
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-c#5.wav
+sample=../Samples/Alto flute/alto_flute-c#5.wav
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -306,7 +306,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-e5.wav
+sample=../Samples/Alto flute/alto_flute-e5.wav
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
@@ -348,7 +348,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-g5.wav
+sample=../Samples/Alto flute/alto_flute-g5.wav
 lokey=f#5
 hikey=g#5
 pitch_keycenter=g5
@@ -390,7 +390,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-a#5.wav
+sample=../Samples/Alto flute/alto_flute-a#5.wav
 lokey=a5
 hikey=b5
 pitch_keycenter=a#5
@@ -433,7 +433,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-c#6.wav
+sample=../Samples/Alto flute/alto_flute-c#6.wav
 lokey=c6
 hikey=d6
 pitch_keycenter=c#6
@@ -476,7 +476,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-e6.wav
+sample=../Samples/Alto flute/alto_flute-e6.wav
 lokey=d#6
 hikey=f6
 pitch_keycenter=e6
@@ -518,7 +518,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/alto flute/alto_flute-g6.wav
+sample=../Samples/Alto flute/alto_flute-g6.wav
 lokey=f#6
 hikey=g6
 pitch_keycenter=g6

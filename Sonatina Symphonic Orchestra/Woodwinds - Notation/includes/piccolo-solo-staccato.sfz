@@ -1,5 +1,5 @@
 <group>
-sample=../Samples/piccolo/piccolo-c4.wav
+sample=../Samples/Piccolo/piccolo-c4.wav
 lokey=c5
 hikey=c#5
 pitch_keycenter=c5
@@ -39,7 +39,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-d#4.wav
+sample=../Samples/Piccolo/piccolo-d#4.wav
 lokey=d5
 hikey=e5
 pitch_keycenter=d#5
@@ -79,7 +79,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-f#4.wav
+sample=../Samples/Piccolo/piccolo-f#4.wav
 lokey=f5
 hikey=g5
 pitch_keycenter=f#5
@@ -119,7 +119,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-a4.wav
+sample=../Samples/Piccolo/piccolo-a4.wav
 lokey=g#5
 hikey=a#5
 pitch_keycenter=a5
@@ -159,7 +159,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-c5.wav
+sample=../Samples/Piccolo/piccolo-c5.wav
 lokey=b5
 hikey=c#6
 pitch_keycenter=c6
@@ -199,7 +199,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-d#5.wav
+sample=../Samples/Piccolo/piccolo-d#5.wav
 lokey=d6
 hikey=e6
 pitch_keycenter=d#6
@@ -239,7 +239,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-f#5.wav
+sample=../Samples/Piccolo/piccolo-f#5.wav
 lokey=f6
 hikey=g6
 pitch_keycenter=f#6
@@ -279,7 +279,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-a5.wav
+sample=../Samples/Piccolo/piccolo-a5.wav
 lokey=g#6
 hikey=a#6
 pitch_keycenter=a6
@@ -320,7 +320,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-c6.wav
+sample=../Samples/Piccolo/piccolo-c6.wav
 lokey=b6
 hikey=c#7
 pitch_keycenter=c7
@@ -360,7 +360,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-d#6.wav
+sample=../Samples/Piccolo/piccolo-d#6.wav
 lokey=d7
 hikey=e7
 pitch_keycenter=d#7
@@ -400,7 +400,7 @@ ampeg_release=2
 
 
 <group>
-sample=../Samples/piccolo/piccolo-f#6.wav
+sample=../Samples/Piccolo/piccolo-f#6.wav
 lokey=f7
 hikey=g7
 pitch_keycenter=f#7
